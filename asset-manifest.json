@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/OR-Model-Project/static/css/main.0d2ea276.css",
+    "main.js": "/OR-Model-Project/static/js/main.24440c5d.js",
+    "static/media/animation.webm": "/OR-Model-Project/static/media/animation.23f16b25f3f407d9514c.webm",
+    "static/media/bg.jpg": "/OR-Model-Project/static/media/bg.10c65d341fa348370f25.jpg",
+    "index.html": "/OR-Model-Project/index.html",
+    "main.0d2ea276.css.map": "/OR-Model-Project/static/css/main.0d2ea276.css.map",
+    "main.24440c5d.js.map": "/OR-Model-Project/static/js/main.24440c5d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d2ea276.css",
+    "static/js/main.24440c5d.js"
+  ]
+}
